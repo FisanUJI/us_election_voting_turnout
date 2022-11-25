@@ -1,4 +1,4 @@
-# SJL006-Data_-Spatial-_Science-Project
+# SJL006-Data_(Spatial)_Science-Project_Group_5
 # Baby steps and diagrams:
 ## Cleaning the first Dataset (e.g. countypres_2000-2020.csv file)
 - Importing of the python libraries with aliases (numpy, pandas, geopandas, matplotlib, etc.)
