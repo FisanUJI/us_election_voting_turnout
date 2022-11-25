@@ -8,7 +8,7 @@
 - Remove unwanted columns from my data using the drop() function
 - Check the shape of data using the .shape property and the first 10 rows and last 10 rows of the dataset using the pandas .head() and pandas .tail() methods.
 - Extract the year 2020 election record from the entire dataset using the pandas .loc[ ] functionality.
-- Write the extracted data frame to CSV, and ensure it is saved in the right directory (i.e. /content/drive/MyDrive/Data_Science_Project_Folder/001 - Data/) on google drive using the pandas .to_csv() functionality
+- Write the extracted data frame to CSV, and ensure it is saved in the right directory (i.e. /content/drive/MyDrive/Data_Science_Project_Folder/001-Data/) on google drive using the pandas .to_csv() functionality
 - Read the file using the pandas .read_csv() functionality, to ensure the data is properly saved in the right directory.
 
 ## Cleaning the voting_and_registration datasets.
