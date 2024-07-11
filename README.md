@@ -1,5 +1,4 @@
 # SJL006-Data_(Spatial)_Science-Project_Group_5
-# Baby steps and diagrams:
 ## Cleaning the first Dataset (e.g. countypres_2000-2020.csv file)
 - Importing of the python libraries with aliases (numpy, pandas, geopandas, matplotlib, etc.)
 - Read data in csv into dataframe using the pd.read_csv() function
