@@ -14,15 +14,16 @@ data/ — Directory where the election data should be stored (if not included, y
 
 ### Requirements 🛠️
 Install required Python packages:
-pip install pandas matplotlib seaborn geopandas plotly
+> pip install pandas matplotlib seaborn geopandas plotly
+
 You may also need:
    geopandas and shapely for map plotting
    Jupyter Notebook / JupyterLab to run the notebook interactively
    
 ### How to Use 🚀
 a.) Clone the repository:
-> git clone https://github.com/yourusername/us-election-voting-analysis.git
-> cd us-election-voting-analysis
+git clone https://github.com/yourusername/us-election-voting-analysis.git
+cd us-election-voting-analysis
 
 b.) Start Jupyter Notebook:
 > jupyter notebook
