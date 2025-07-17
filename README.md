@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook focused on analyzing voter participa
 ### Notebook Title 📘
 ##### US ELECTION, VOTING PARTICIPATION AND DISTRIBUTION
 
-### Key Features 📊
+### Key Features 📊 
 Import and visualization of U.S. election-related data
 Analysis of voter turnout by state
 Comparison of urban vs rural participation
