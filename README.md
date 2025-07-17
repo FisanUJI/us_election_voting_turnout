@@ -36,7 +36,7 @@ This notebook is useful for:
 - Building dashboards or visual tools for civic engagement.
   
 ### License 📎
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/FisanUJI/nigeria_election_voting_turnout/blob/main/LICENSE) for more details.
 
 ### Contributing 🤝
 We welcome contributions! Feel free to fork this repo and submit a pull request. 
