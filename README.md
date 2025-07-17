@@ -23,7 +23,7 @@ You may also need:
 ### How to Use 🚀
 a.) Clone the repository:
 git clone https://github.com/yourusername/us-election-voting-analysis.git
-cd us-election-voting-analysis
+> cd us-election-voting-analysis
 
 b.) Start Jupyter Notebook:
 > jupyter notebook
