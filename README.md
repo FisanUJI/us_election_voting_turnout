@@ -27,8 +27,7 @@ git clone https://github.com/FisanUJI/us-election-voting-turnout.git
 
 b.) Start Jupyter Notebook:
 > jupyter notebook
-
-Open notebook.ipynb and run all cells.
+> Open notebook.ipynb and run all cells.
 
 ### Use Cases 📌
 This notebook is useful for:
