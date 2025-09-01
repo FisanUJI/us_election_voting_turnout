@@ -22,8 +22,8 @@ You may also need:
    
 ### How to Use 🚀
 a.) Clone the repository:
-git clone https://github.com/FisanUJI/us-election-voting-analysis.git
-> cd us-election-voting-analysis
+git clone https://github.com/FisanUJI/us-election-voting-turnout.git
+> cd us-election-voting-turnout
 
 b.) Start Jupyter Notebook:
 > jupyter notebook
