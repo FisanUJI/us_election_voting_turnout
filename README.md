@@ -9,8 +9,8 @@ Bar charts, heatmaps, and distribution plots for better insight
 Mapping election participation data across the U.S.
 
 ### Contents 📂
-notebook.ipynb — Jupyter Notebook with complete code and visualizations
-data/ — Directory where the election data should be stored (if not included, you may need to download relevant datasets from sources like the U.S. Census Bureau or FEC)
+> notebook.ipynb — Jupyter Notebook with complete code and visualizations
+> data/ — Directory where the election data should be stored (if not included, you may need to download relevant datasets from sources like the U.S. Census Bureau or FEC)
 
 ### Requirements 🛠️
 Install required Python packages:
